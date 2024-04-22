@@ -227,6 +227,13 @@ of me when I work with Whisper CPP.  This empirically validates everything that
 colleagues have to say about discrimination in facial recognition AI, except
 this is in speech recognition.
 
+#### Inspirations for podcast transcriptions:
+
+* [_Darknet Diaries_](https://en.wikipedia.org/wiki/Darknet_Diaries)
+    * Example: 
+* ["How to Fix the Internet"](https://www.eff.org/how-to-fix-the-internet-podcast) by the [EFF](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
+    * Example: ["Don't Be Afraid to Poke the Tigers"](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation) with Andrew "bunnie" Huang
+
 ### C) Making synchronized subtitles for videos
 This is a bit tough, as I have the least experience with this.
 
