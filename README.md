@@ -66,6 +66,13 @@ accessible way:
     * C.f. [Minix](https://en.wikipedia.org/wiki/Minix) and [Intel ME](https://en.wikipedia.org/wiki/Intel_Management_Engine)
 * [Vibe](https://github.com/thewh1teagle/vibe), built with Tauri for desktop (Windows, Mac, & Linux)
 * [Transcribro](https://github.com/soupslurpr/Transcribro) an Android app distributed through [Accrescent](https://accrescent.app/)
+* [OTranscribe](https://otranscribe.com/opensource/), open-source web app
+
+### Examples of existing non-free online transcription services
+* [Trint](https://trint.com/), AI-based transcription
+* [Rev](https://www.rev.com/)
+
+TL;DR: You trust these services to not keep copies of your audio forever.
 
 ## Motivation
 There are three broad reasons why I am interested in working with Whisper CPP.
