@@ -127,7 +127,8 @@ significantly rework the text content prior to visual formatting.)  Regarding
 [UX](https://en.wikipedia.org/wiki/User_experience), we will follow the
 [KISS principle](https://en.wikipedia.org/wiki/KISS_principle).
 
-## Download Whisper CPP
+## Get started with Whisper CPP
+### Download Whisper CPP
 In a [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
 instance, create a local clone of the Whisper C++ Git repo with:
 ```
@@ -136,7 +137,7 @@ $ git clone https://github.com/ggerganov/whisper.cpp.git
 
 Then, navigate into the `whisper.cpp` directory to start using Whisper CPP.
 
-### How to update Whisper CPP
+### How to update the application Whisper CPP
 After a new [point version](https://en.wikipedia.org/wiki/Software_versioning)
 is released, run the following:
 ```
@@ -149,6 +150,12 @@ To revert the repo to the latest commit to prepare for a new update, run:
 ```
 $ git switch <primary-branch-name>  # Usually master or main
 ```
+
+### How to update each LLM
+You only need to redownload each LLM when it has changed.  Reference the Git LFS
+([Large File Storage](https://git-lfs.com/)) [repo](https://huggingface.co/ggerganov/whisper.cpp/tree/main)
+on [Hugging Face](https://en.wikipedia.org/wiki/Hugging_Face) to check for LLM
+updates.
 
 ## How to transcribe with Whisper CPP
 While in the Whisper CPP directory, convert any input audio file into a 16kHz
