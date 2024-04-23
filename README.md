@@ -257,6 +257,7 @@ So, I used the online [version](https://subsync.online/en/online.html) of
 
 * Wikipedia [article section](https://en.wikipedia.org/wiki/Subtitles#Types) regarding hardcoded vs. softcoded subtitles
 * YouTube [support page](https://support.google.com/youtube/answer/2734796?hl=en) on uploading subtitles
+    * [Support page](https://support.google.com/youtube/answer/2734698) on supported file types
 * Vimeo [support page](https://vimeo.com/blog/post/how-to-add-captions-to-video/) on uploading subtitles
 
 ## Working sources
